@@ -23,12 +23,12 @@ function App() {
       <header >
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="#home">Animal Lover</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#link">Link</Nav.Link>
+            <Nav.Link href="https://animalcats.netlify.app/">Home</Nav.Link>
+            <Nav.Link href="https://www.facebook.com/Xay20">Cat</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
@@ -72,7 +72,7 @@ function App() {
       <Row>
       <Card className="text-center bg-secordary text-black my-7 py-4">
       <Card.Body>
-        This is some text within a card bodyA freebie called Tomb Raider was created by Navin Adchariyavanich to emulate the distressed style in the logo.
+        This is some text within a card body
         </Card.Body>
     </Card>
 
@@ -88,7 +88,7 @@ function App() {
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Readmore..</Button>
       </Card.Body>
     </Card>
       </Col>
@@ -101,7 +101,7 @@ function App() {
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Readmore..</Button>
       </Card.Body>
     </Card>
       </Col>
@@ -114,7 +114,7 @@ function App() {
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Readmore..</Button>
       </Card.Body>
     </Card>
       </Col>
@@ -125,7 +125,7 @@ function App() {
       <footer className="py-4 my-5 bg-dark">
         <Container className="px-4">
           <p className="text-center text-white">
-            Copyright &copy; Yourwebsite name 2022
+            Copyright &copy; Animalcats 2022
           </p>
 
         </Container>
