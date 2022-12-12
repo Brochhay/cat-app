@@ -81,7 +81,7 @@ function App() {
     <Row>
       <Col>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://images.pexels.com/photos/257532/pexels-photo-257532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+      <Card.Img variant="top" src="https://images.pexels.com/photos/33537/cat-animal-cat-portrait-mackerel.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
